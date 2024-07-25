@@ -1,0 +1,9 @@
+[submodule "cony-frontend"]
+	path = cony-frontend
+	url = https://github.com/2024AICompetition/cony-frontend.git
+[submodule "cony-backend"]
+	path = cony-backend
+	url = https://github.com/2024AICompetition/cony-backend.git
+[submodule "cony-AI-backend"]
+	path = cony-AI-backend
+	url = https://github.com/2024AICompetition/cony-AI-backend.git
